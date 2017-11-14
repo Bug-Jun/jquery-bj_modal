@@ -42,7 +42,7 @@ html
 
 js
 ```JavaScript
-  $("#my-modal").bj_modal();//插件初始化
+$("#my-modal").bj_modal();//插件初始化
 ```
 
 方法
